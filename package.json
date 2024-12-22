@@ -1,0 +1,24 @@
+{
+  "name": "yt-downloader-api",
+  "version": "0.0.0",
+  "description": "Api de download de video do youtube",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phplemos/yt-downloader-api.git"
+  },
+  "author": "Pedro Pinheiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phplemos/yt-downloader-api/issues"
+  },
+  "homepage": "https://github.com/phplemos/yt-downloader-api#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

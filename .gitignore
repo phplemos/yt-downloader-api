@@ -1,0 +1,19 @@
+# Dependências do Node.js
+node_modules/
+package-lock.json
+
+# Variáveis de ambiente
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+debug.log*
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+
+
